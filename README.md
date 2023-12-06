@@ -7,7 +7,14 @@ I plan to conduct user testing for my headdress accessory after completing this 
 ![cc](https://github.com/Kassiazheng-nz2280/week12/assets/144282051/1de4bf63-b5b7-40f5-81b0-06b6faeb2151)
 
 ## System diagram
-![未命名作品 100的副本2](https://github.com/Kassiazheng-nz2280/week12/assets/144282051/3844a6b2-7acc-4d23-9e9e-32296313344f)
+![未命名作品 104](https://github.com/6063-nz2280/HW12_4assigment/assets/144282051/2f825c36-4ee0-4dce-98f6-c794d56b3c8c)
+
+
+## Circuit diagram
+![未命名作品 102](https://github.com/6063-nz2280/HW12_4assigment/assets/144282051/caf9101c-80e5-4b16-8d36-b95e138327e4)
+
+## FSM diagram
+![未命名作品 103](https://github.com/6063-nz2280/HW12_4assigment/assets/144282051/02131b72-6101-4ca3-b844-3b7d3d714b71)
 
 ## Board
 ![IMG_6085 2](https://github.com/Kassiazheng-nz2280/week12/assets/144282051/18387587-246d-4f64-99fe-c41b331d5730)
